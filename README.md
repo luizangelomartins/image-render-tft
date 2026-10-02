@@ -62,6 +62,10 @@
   <hr width="500em" />
 </div>
 
+<div align="center">
+  <img width="300em" src="https://luizangelomartins.github.io/image-render-tft/banner4.png">
+</div>
+
 <div align="center"> 
   <a href="https://luizangelomartins.github.io/image-render-tft/banner4.png">
   <img width="300" src="https://img.shields.io/badge/BANNER 4 - CLIQUE AQUI PARA VISUALIZAR/TESTAR-151515?style=for-the-badge"> 
@@ -71,6 +75,10 @@
   <hr width="500em" />
 </div>
 
+<div align="center">
+  <img width="300em" src="https://luizangelomartins.github.io/image-render-tft/banner5.png">
+</div>
+
 <div align="center"> 
   <a href="https://luizangelomartins.github.io/image-render-tft/banner5.png">
   <img width="300" src="https://img.shields.io/badge/BANNER 5 - CLIQUE AQUI PARA VISUALIZAR/TESTAR-151515?style=for-the-badge"> 
@@ -78,6 +86,10 @@
 
 <div align="center">
   <hr width="500em" />
+</div>
+
+<div align="center">
+  <img width="300em" src="https://luizangelomartins.github.io/image-render-tft/banner6.png">
 </div>
 
 <div align="center"> 
