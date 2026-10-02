@@ -1,1 +1,4 @@
 images/MARIN.png
+Fri Oct  2 17:57:04 UTC 2026 | banner1.png | images/YAMADA.png
+Fri Oct  2 17:57:04 UTC 2026 | banner2.png | images/POWER.png
+Fri Oct  2 17:57:04 UTC 2026 | banner3.png | images/ZERO_TWO.png
