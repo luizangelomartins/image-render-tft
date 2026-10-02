@@ -23,3 +23,9 @@ Fri Oct  2 21:59:51 UTC 2026 | banner3.png | images/YAMADA.png
 Fri Oct  2 21:59:51 UTC 2026 | banner4.png | images/ZERO_TWO.png
 Fri Oct  2 21:59:51 UTC 2026 | banner5.png | images/FRIEREN.png
 Fri Oct  2 21:59:51 UTC 2026 | banner6.png | images/MARCILLE_V1.png
+Fri Oct  2 22:40:43 UTC 2026 | banner1.png | images/MARCILLE_V2.png
+Fri Oct  2 22:40:43 UTC 2026 | banner2.png | images/MARIN.png
+Fri Oct  2 22:40:43 UTC 2026 | banner3.png | images/MILIM.png
+Fri Oct  2 22:40:43 UTC 2026 | banner4.png | images/MITA.png
+Fri Oct  2 22:40:43 UTC 2026 | banner5.png | images/MONIKA.png
+Fri Oct  2 22:40:43 UTC 2026 | banner6.png | images/NAGISA.png
