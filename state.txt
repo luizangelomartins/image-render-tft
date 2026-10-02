@@ -1,6 +1,9 @@
-banner1.png = images/FRIEREN.png
-banner2.png = images/MARIN.png
-banner3.png = images/NAGISA.png
-Current index: 0
-Next index: 3
-Updated: Fri Oct  2 19:01:45 UTC 2026
+banner1.png = images/MARIN.png
+banner2.png = images/MILIM.png
+banner3.png = images/MITA.png
+banner4.png = images/MONIKA.png
+banner5.png = images/NAGISA.png
+banner6.png = images/POWER.png
+Current index: 3
+Next index: 9
+Updated: Fri Oct  2 21:32:56 UTC 2026
