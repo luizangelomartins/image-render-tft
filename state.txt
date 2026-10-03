@@ -1,9 +1,9 @@
-banner1.png = images/POWER.png
-banner2.png = images/POWER_V2.png
-banner3.png = images/RIMURU.png
-banner4.png = images/YAMADA.png
-banner5.png = images/ZERO_TWO.png
-banner6.png = images/FRIEREN.png
-Current index: 8
-Next index: 1
-Updated: Sat Oct  3 01:33:04 UTC 2026
+banner1.png = images/MARCILLE_V1.png
+banner2.png = images/MARCILLE_V2.png
+banner3.png = images/MARIN.png
+banner4.png = images/MILIM.png
+banner5.png = images/MITA.png
+banner6.png = images/MONIKA.png
+Current index: 1
+Next index: 7
+Updated: Sat Oct  3 07:02:55 UTC 2026
