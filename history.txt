@@ -77,3 +77,9 @@ Sun Oct  4 07:45:06 UTC 2026 | banner3.png | images/FRIEREN.png
 Sun Oct  4 07:45:06 UTC 2026 | banner4.png | images/MARCILLE_V1.png
 Sun Oct  4 07:45:06 UTC 2026 | banner5.png | images/MARCILLE_V2.png
 Sun Oct  4 07:45:06 UTC 2026 | banner6.png | images/MARIN.png
+Sun Oct  4 13:33:19 UTC 2026 | banner1.png | images/MILIM.png
+Sun Oct  4 13:33:19 UTC 2026 | banner2.png | images/MITA.png
+Sun Oct  4 13:33:19 UTC 2026 | banner3.png | images/MONIKA.png
+Sun Oct  4 13:33:19 UTC 2026 | banner4.png | images/NAGISA.png
+Sun Oct  4 13:33:19 UTC 2026 | banner5.png | images/POWER.png
+Sun Oct  4 13:33:19 UTC 2026 | banner6.png | images/POWER_V2.png
