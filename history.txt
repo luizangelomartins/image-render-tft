@@ -137,3 +137,9 @@ Tue Oct  6 13:45:56 UTC 2026 | banner3.png | images/POWER.png
 Tue Oct  6 13:45:56 UTC 2026 | banner4.png | images/POWER_V2.png
 Tue Oct  6 13:45:56 UTC 2026 | banner5.png | images/RIMURU.png
 Tue Oct  6 13:45:56 UTC 2026 | banner6.png | images/YAMADA.png
+Tue Oct  6 19:13:14 UTC 2026 | banner1.png | images/ZERO_TWO.png
+Tue Oct  6 19:13:14 UTC 2026 | banner2.png | images/FRIEREN.png
+Tue Oct  6 19:13:14 UTC 2026 | banner3.png | images/MARCILLE_V1.png
+Tue Oct  6 19:13:14 UTC 2026 | banner4.png | images/MARCILLE_V2.png
+Tue Oct  6 19:13:14 UTC 2026 | banner5.png | images/MARIN.png
+Tue Oct  6 19:13:14 UTC 2026 | banner6.png | images/MILIM.png
