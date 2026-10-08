@@ -1,0 +1,39 @@
+{
+  "grupos": [
+    {
+      "id": "personagens",
+      "nome": "Personagens",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png",
+        "MARIN.png",
+        "MITA.png",
+        "YAMADA.png"
+      ]
+    },
+    {
+      "id": "relogio",
+      "nome": "Relógio",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
+      ]
+    },
+    {
+      "id": "paisagens",
+      "nome": "Paisagens",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
+      ]
+    },
+    {
+      "id": "wallpapers",
+      "nome": "Wallpapers",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
+      ]
+    }
+  ]
+}
