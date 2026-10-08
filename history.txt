@@ -173,3 +173,9 @@ Wed Oct  7 21:31:29 UTC 2026 | banner3.png | images/MITA.png
 Wed Oct  7 21:31:29 UTC 2026 | banner4.png | images/MONIKA.png
 Wed Oct  7 21:31:29 UTC 2026 | banner5.png | images/NAGISA.png
 Wed Oct  7 21:31:29 UTC 2026 | banner6.png | images/POWER.png
+Thu Oct  8 01:15:33 UTC 2026 | banner1.png | images/POWER_V2.png
+Thu Oct  8 01:15:33 UTC 2026 | banner2.png | images/RIMURU.png
+Thu Oct  8 01:15:33 UTC 2026 | banner3.png | images/YAMADA.png
+Thu Oct  8 01:15:33 UTC 2026 | banner4.png | images/ZERO_TWO.png
+Thu Oct  8 01:15:33 UTC 2026 | banner5.png | images/FRIEREN.png
+Thu Oct  8 01:15:33 UTC 2026 | banner6.png | images/MARCILLE_V1.png
