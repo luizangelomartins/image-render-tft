@@ -1,0 +1,25 @@
+{
+  "grupos": [
+    {
+      "id": "principal",
+      "nome": "Principal",
+      "banners": [
+        "banner1.png",
+        "banner2.png",
+        "banner3.png",
+        "banner4.png",
+        "banner5.png",
+        "banner6.png"
+      ]
+    },
+    {
+      "id": "cyberpunk",
+      "nome": "Cyberpunk",
+      "banners": [
+        "banner4.png",
+        "banner5.png",
+        "banner6.png"
+      ]
+    }
+  ]
+}
