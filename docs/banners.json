@@ -1,24 +1,46 @@
 {
   "grupos": [
     {
-      "id": "principal",
-      "nome": "Principal",
+      "id": "personagens",
+      "nome": "Personagens",
       "banners": [
-        "banner1.png",
-        "banner2.png",
-        "banner3.png",
-        "banner4.png",
-        "banner5.png",
-        "banner6.png"
+        "FRIEREN.png",
+        "MARCILLE_V1.png",
+        "MARCILLE_V2.png",
+        "MARIN.png",
+        "MILIM.png",
+        "MITA.png",
+        "MONIKA.png",
+        "NAGISA.png",
+        "POWER.png",
+        "POWER_V2.png",
+        "RIMURU.png",
+        "YAMADA.png",
+        "ZERO_TWO.png"
       ]
     },
     {
       "id": "relogio",
-      "nome": "Relogio",
+      "nome": "Relógio",
       "banners": [
-        "banner4.png",
-        "banner5.png",
-        "banner6.png"
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
+      ]
+    },
+    {
+      "id": "paisagens",
+      "nome": "Paisagens",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
+      ]
+    },
+    {
+      "id": "wallpapers",
+      "nome": "Wallpapers",
+      "banners": [
+        "FRIEREN.png",
+        "MARCILLE_V1.png"
       ]
     }
   ]
